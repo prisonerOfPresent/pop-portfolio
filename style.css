@@ -1,0 +1,48 @@
+html{
+    font-family: 'Inconsolata', monospace;
+    background-color: #000000;
+    color: #f5eded;
+}
+
+body{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding: 20px;
+}
+
+.extra-light-font{
+    font-weight: 200;
+}
+
+.light-font{
+    font-weight: 300;
+}
+
+.regular-font{
+    font-weight: 400;
+}
+
+.medium-font{
+    font-weight: 500;
+}
+
+.semi-bold-font{
+    font-weight: 600;
+}
+
+.bold-font{
+    font-weight: 700;
+}
+
+.extra-bold-font{
+    font-weight: 800;
+}
+
+.black-font{
+    font-weight: 900;
+}
+
+a{
+    color: #00adb5;
+}
